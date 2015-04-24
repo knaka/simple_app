@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'therubyracer', require: "v8"
+gem 'mysql2'
